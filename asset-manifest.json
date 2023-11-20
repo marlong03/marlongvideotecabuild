@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/marlong03/marlongvideoteca/static/css/main.53594de8.css",
+    "main.js": "/marlong03/marlongvideoteca/static/js/main.724c8d94.js",
+    "static/js/496.c88e5b26.chunk.js": "/marlong03/marlongvideoteca/static/js/496.c88e5b26.chunk.js",
+    "static/media/logosccot.png": "/marlong03/marlongvideoteca/static/media/logosccot.2c493bfee9148fa207f6.png",
+    "index.html": "/marlong03/marlongvideoteca/index.html",
+    "main.53594de8.css.map": "/marlong03/marlongvideoteca/static/css/main.53594de8.css.map",
+    "main.724c8d94.js.map": "/marlong03/marlongvideoteca/static/js/main.724c8d94.js.map",
+    "496.c88e5b26.chunk.js.map": "/marlong03/marlongvideoteca/static/js/496.c88e5b26.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53594de8.css",
+    "static/js/main.724c8d94.js"
+  ]
+}
